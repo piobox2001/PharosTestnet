@@ -1,0 +1,2 @@
+# scriptmania
+scripts Mania
